@@ -10,6 +10,11 @@ The Github Pages Environment can be set under __Settings ► Pages__, the GitHub
 
 The Swagger YML file is in the `/docs` folder, but can be placed in any other location and even be converted in JSON format with just some little adjustments to `src/index.js`.
 
+## Local Development
+A local environment can be started with the command:
+```bash
+npm start
+```
 ## Accessing Swagger UI
 
 Once you have deployed your Swagger UI documentation to GitHub Pages, you can access it by visiting the following URL:
